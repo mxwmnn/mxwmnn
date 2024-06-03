@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [pdf_filler](https://github.com/mxwmnn/pdf_filler)
 
-- 🌱 I’m currently learning **Svelte/SvelteKit, Django, Tailwind/Flowbite**
+- 🌱 I’m currently learning **React/Next.js, Tailwind/Flowbite/DaisyUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mxwmnn](https://github.com/mxwmnn)
 
